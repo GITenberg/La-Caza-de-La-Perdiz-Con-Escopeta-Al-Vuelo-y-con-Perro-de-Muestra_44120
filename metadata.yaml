@@ -1,0 +1,25 @@
+_repo: La-Caza-de-La-Perdiz-Con-Escopeta-Al-Vuelo-y-con-Perro-de-Muestra_44120
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44120-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Saurí, Manuel
+    alias: Sauri, Manuel
+    gutenberg_agent_id: '42587'
+    url: http://www.gutenberg.org/2009/agents/42587
+description: ''
+gutenberg_issued: '2013-11-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44120'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'SK'
+- !lcsh 'Partridge shooting -- Spain'
+title: La Caza de La Perdiz Con Escopeta, Al Vuelo y con Perro de Muestra
+url: http://www.gutenberg.org/ebooks/44120
